@@ -17,6 +17,7 @@ i make fizzbuzz for every languages
 - [Odin](Odin.odin)
 - [Pascal](Pascal.pas)
 - [Python](Python.py)
+- [Ruby](Ruby.rb)
 - [Rust](Rust/src/main.rs)
 - [Swift](Swift.swift)
 - [V](Vlang.v)
