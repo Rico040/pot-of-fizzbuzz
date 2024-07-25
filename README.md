@@ -1,2 +1,20 @@
 # pot of fizzbuzz
 i make fizzbuzz for every languages
+
+## Languages (20 total)
+- [C](C.c)
+- [C#](CSharp.cs)
+- [Elle](Elle.elle) [language](https://github.com/acquitelol/elle)
+- [Haskell](Haskell.hs)
+- [Java](Java.java)
+- [JavaScript.js](JavaScript.js)
+- [LaTeX](LaTeX.tex)
+- [Lisp](Lisp.lsp)
+- [Lua](Lua.lua)
+- [Nim](Nim.nim)
+- [Odin](Odin.odin)
+- [Pascal](Pascal.pas)
+- [Python](Python.py)
+- [Swift](Swift.swift)
+- [VBScript](VBScript.vbs)
+- [V](Vlang.v)
