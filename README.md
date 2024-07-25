@@ -3,6 +3,7 @@ i make fizzbuzz for every languages
 
 ## Languages (20 total)
 - [C](C.c)
+- [COBOL](COBOL.cbl)
 - [C#](CSharp.cs)
 - [Elle](Elle.elle) [language](https://github.com/acquitelol/elle)
 - [Haskell](Haskell.hs)
