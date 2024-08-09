@@ -5,7 +5,7 @@ i make fizzbuzz for every languages
 - [C](C.c)
 - [COBOL](COBOL.cbl)
 - [C#](CSharp.cs)
-- [Elle](Elle.elle) [language](https://github.com/acquitelol/elle)
+- [Elle](Elle.l) [language](https://github.com/acquitelol/elle)
 - [Go](Go/main.go)
 - [Haskell](Haskell.hs)
 - [Java](Java.java)

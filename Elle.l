@@ -1,7 +1,7 @@
-external fn printf(string formatter, ...);
+use std/io;
 
 fn main () {
-    for int i = 1; i < 25001; i++ {
+    for i32 i = 1; i <= 25000; i++ {
         if i % 15 == 0 {
             printf("FizzBuzz\n");
             continue;
