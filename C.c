@@ -2,7 +2,7 @@
 
 int main() 
 {
-    for (int i = 1; i < 25001; i++) 
+    for (int i = 1; i <= 25000; i++) 
     {
         if (i % 15 == 0)
         {
