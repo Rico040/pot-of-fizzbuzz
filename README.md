@@ -10,7 +10,7 @@ i make fizzbuzz for every languages
 - [Go](Go/main.go)
 - [Haskell](Haskell.hs)
 - [Java](Java.java)
-- [JavaScript.js](JavaScript.js)
+- [JavaScript](JavaScript.js)
 - [LaTeX](LaTeX.tex)
 - [Lisp](Lisp.lsp)
 - [Lua](Lua.lua)
