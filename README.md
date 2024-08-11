@@ -7,6 +7,7 @@ i make fizzbuzz for every languages
 - [C#](CSharp.cs)
 - [Dart](Dart.dart)
 - [Elle](Elle.l) [language](https://github.com/acquitelol/elle)
+- [FORTRAN](FORTRAN.f95)
 - [Go](Go/main.go)
 - [Haskell](Haskell.hs)
 - [Java](Java.java)
