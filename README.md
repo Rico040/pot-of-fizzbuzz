@@ -1,7 +1,7 @@
 # pot of fizzbuzz
 i make fizzbuzz for every languages
 
-## Languages (23 total)
+## Languages (24 total)
 - [C](C.c)
 - [COBOL](COBOL.cbl)
 - [C#](CSharp.cs)
@@ -12,6 +12,7 @@ i make fizzbuzz for every languages
 - [Haskell](Haskell.hs)
 - [Java](Java.java)
 - [JavaScript](JavaScript.js)
+- [Kotlin](Kotlin.kt)
 - [LaTeX](LaTeX.tex)
 - [Lisp](Lisp.lsp)
 - [Lua](Lua.lua)
