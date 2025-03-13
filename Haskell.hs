@@ -1,11 +1,11 @@
-{-# LANGUAGE MultiWayIf #-}
-import Control.Monad ( forM_ )
+module Main where
+
+fizzbuzz :: Int -> String
+fizzbuzz n
+  | n `mod` 15 == 0 = "FizzBuzz"
+  | n `mod` 3  == 0 = "Fizz"
+  | n `mod` 5  == 0 = "Buzz"
+  | otherwise       = show n
 
 main :: IO ()
-main = do
-    forM_ [1..25000] $ \i -> do
-        if | (i `mod` 15) == 0 -> putStrLn "FizzBuzz"
-           | (i `mod` 3) == 0  -> putStrLn "Fizz"
-           | (i `mod` 5) == 0  -> putStrLn "Buzz"
-           | otherwise         -> print i
-
+main = mapM_ putStrLn [fizzbuzz x | x <- [1..25000]]
