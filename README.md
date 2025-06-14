@@ -1,7 +1,7 @@
 # pot of fizzbuzz
 i make fizzbuzz for every languages
 
-## Languages (25 total)
+## Languages (26 total)
 - [C](C.c)
 - [C#](CSharp.cs)
 - [COBOL](COBOL.cbl)
