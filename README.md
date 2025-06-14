@@ -10,6 +10,7 @@ i make fizzbuzz for every languages
 - [Elle](Elle.l) [language](https://github.com/acquitelol/elle)
 - [FORTRAN](FORTRAN.f95)
 - [Go](Go/main.go)
+- [GDScript](GDScript.gd)
 - [Haskell](Haskell.hs)
 - [Java](Java.java)
 - [JavaScript](JavaScript.js)
