@@ -1,7 +1,7 @@
 #import "Basic";
 
 main :: () {
-    for i : 1..15 {
+    for i : 1..25000 {
         if (i % 15 == 0) {
             print("FizzBuzz\n");
         } else if (i % 3 == 0) {
