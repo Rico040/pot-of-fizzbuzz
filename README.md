@@ -8,6 +8,7 @@ i make fizzbuzz for every languages
 - [Crystal](Crystal.cr)
 - [Dart](Dart.dart)
 - [Elle](Elle.l) [language](https://github.com/acquitelol/elle)
+- [F#](FSharp.fs)
 - [FORTRAN](FORTRAN.f95)
 - [Go](Go/main.go)
 - [GDScript](GDScript.gd)
